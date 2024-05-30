@@ -1,4 +1,5 @@
 # kINGROON TITAN EXTRUDER COOLER
+![titan Extruder coolor](./kingroon_titan_cooling/image/Image01.png)
 ## 필요한 부품 리스트
 * M4
     * 6mm 3개(본체결합용)
@@ -18,6 +19,8 @@
 
 
 # BMG Extruder Light Version
+
+![BMG extruder light](./BMG_light/Image/Image_01.png)
 ## 필요한 부품 리스트
 
 * 본체고정용
