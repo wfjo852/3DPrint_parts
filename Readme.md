@@ -46,3 +46,15 @@
 ### 설계 기준 히팅 시스템
 * E3d V5, V6
 * 높이가 30mm인 노즐목 사용 기준
+
+# kp3s pro v2 쿨러 어댑터
+
+## kp3s pro v2의 쿨러용 어댑터
+
+3010 >> 4010으로 변경 할때  사용합니다.
+
+![kp3s_pro_v2_cooler_adpt](./kp3s_pro_v2_Cooler_adpt/img/image_01.png)
+![kp3s_pro_v2_cooler_adpt](./kp3s_pro_v2_Cooler_adpt/img/image_02.jpg)
+## 필요한 부품 리스트
+* m3 10mm 4개
+
