@@ -50,6 +50,8 @@
 * 높이가 30mm인 노즐목 사용 기준
 
 ### 업데이트 
+ - 240708-노즐 셋 V2로 업데이트 / 쿨링 개선 : 참고 https://www.printables.com/model/243881-e3d-v6-cfd-optimized-adjustable-part-cooling-duct
+ - 240708-BL터치 0.5mmup / 1mm 여유가이드 추가
  - 240622-필라멘트 가이드 추가
  - 240605-모터 공차 추가
  - 240531-아이들러 개선
