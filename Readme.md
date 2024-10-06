@@ -71,3 +71,24 @@
 ### 업데이트
  - 240619-최초업데이트
 
+
+# BMG Extruder Light Version
+
+![BMG extruder light](./BMG_super_light/Image/Image_01.png)
+## 필요한 부품 리스트
+
+* 확인중
+* M3 5x4 멜팅 인서트 너트 필요
+* Corexy에 적용시 Gt2벨트 조절용으로 M2 3X2.5 멜팅 인서트 너트 필요 
+
+### 재질
+* PETG 이상 강도가 나오는 필라멘트 사용
+
+### 설계 기준 히팅 시스템
+* E3d V5, V6
+* 높이가 30mm인 노즐목 사용 기준
+
+### 업데이트 
+ - 241006-최초 업데이트
+
+
